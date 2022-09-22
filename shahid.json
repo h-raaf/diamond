@@ -20,10 +20,11 @@
 		"unity_test": true,
 		"unity_banner": "Banner_Android",
 		"unity_interstitial": "Interstitial_Android",
-
-        "Cpa": true,
-        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://google.com/"
+	      
+	     
+        "ImageBanner": true,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
 
 		
       },
