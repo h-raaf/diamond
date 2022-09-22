@@ -23,7 +23,7 @@
 
         "ImageBanner": true,
         "ImageBannerImg" : "https://i.imgur.com/oWEjQGy.gif",
-        "ImageBannerURL" : "https://netflix-free-accounts.netlify.app/"
+        "ImageBannerURL" : "https://netflix-free-accounts.netlify.app"
 		
       },
 
@@ -34,7 +34,7 @@
         "image": "https://i.postimg.cc/bwQqfTpw/307999287-134694885969956-8128237190695718662-n.jpg",
 		"color": "#E8AA42",
         "text_size": "25",
-        "isLink": false,
+        "isLink": true,
 		"link_title": "رابط الفيلم",
 		"setLink": "https://www.facebook.com/100003778156055/videos/1357784037690855/",
         "image_link": "",
