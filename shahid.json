@@ -17,7 +17,7 @@
 		"ironsource_appKey": "168ad62ed",
 		
 		"unity_game_id": "4937988",
-		"unity_test": false,
+		"unity_test": true,
 		"unity_banner": "Banner_Android",
 		"unity_interstitial": "Interstitial_Android",
 
