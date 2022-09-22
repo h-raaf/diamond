@@ -22,7 +22,7 @@
 		"unity_interstitial": "Interstitial_Android",
 	      
 	     
-        "ImageBanner": true,
+        "ImageBanner": false,
         "ImageBannerImg" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
         "ImageBannerURL" : "https://netflix-free-accounts.netlify.app/"
 
