@@ -3,8 +3,8 @@
     "AdsController": 
       {
         "BannerAd": "unity",
-	"InterstitialAd": "unity",
-        "NativeAd": "admob",
+	"InterstitialAd": "irinsource",
+        "NativeAd": "max",
 		
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -17,7 +17,7 @@
 		"ironsource_appKey": "168ad62ed",
 		
 		"unity_game_id": "4937988",
-		"unity_test": true,
+		"unity_test": false,
 		"unity_banner": "Banner_Android",
 		"unity_interstitial": "Interstitial_Android",
 
