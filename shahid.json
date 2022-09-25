@@ -10,9 +10,9 @@
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"maxBanner": "",
-		"maxInterstitial": "",
-		"maxNative": "",
+		"maxBanner": "YOUR_AD_UNIT_ID",
+		"maxInterstitial": "YOUR_AD_UNIT_ID",
+		"maxNative": "YOUR_AD_UNIT_ID",
 		
 		"ironsource_appKey": "168ad62ed",
 		
