@@ -2,13 +2,13 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "max",
-	"InterstitialAd": "max",
-        "NativeAd": "max",
+        "BannerAd": "admob",
+	"InterstitialAd": "admob",
+        "NativeAd": "admob",
 		
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		"BannerAdmob": "ca-app-pub-3516129193884802/3680499487",
+        "InterstitialAdmob": "ca-app-pub-3516129193884802/7308204567",
+        "NativeAdmob": "ca-app-pub-3516129193884802/4945765100",
 		
 		"maxBanner": "YOUR_AD_UNIT_ID",
 		"maxInterstitial": "YOUR_AD_UNIT_ID",
@@ -22,7 +22,7 @@
 		"unity_interstitial": "Interstitial_Android",
 	      
 	     
-        "ImageBanner": true,
+        "ImageBanner": false,
         "ImageBannerImg" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
         "ImageBannerURL" : "https://netflix-free-accounts.netlify.app/"
 
