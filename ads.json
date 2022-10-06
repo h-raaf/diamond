@@ -3,8 +3,8 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "unity",
-	"InterstitialAd": "unity",
+        "BannerAd": "ironsource",
+	"InterstitialAd": "ironsource",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
