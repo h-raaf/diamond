@@ -11,9 +11,9 @@
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"MaxBanner" : "40dfb5ae75145eaf",
-		"MaxInter" : "4f7ffa25349b4200",
-		"MaxNative" : "f1cba2a855a7a603",
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" : "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
 		
 		"ironsource_appKey": "168ad62ed",
 		
