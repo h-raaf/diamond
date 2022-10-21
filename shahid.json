@@ -3,7 +3,7 @@
     "AdsController": 
       {
         "BannerAd": "admob",
-	"InterstitialAd": "unity",
+	"InterstitialAd": "admob",
         "NativeAd": "admob",
 		
 	"BannerAdmob": "ca-app-pub-4489490271278035/2896680633",
@@ -22,7 +22,7 @@
 		"unity_interstitial": "Interstitial_Android",
 	      
 	     
-        "ImageBanner": true,
+        "ImageBanner": false,
         "ImageBannerImg" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
         "ImageBannerURL" : "https://netflix-free-accounts.netlify.app/"
 
