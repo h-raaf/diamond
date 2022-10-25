@@ -7,12 +7,12 @@
         "NativeAd": "admob",
 		
 	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"maxBanner": "4e1628733c98b947",
-		"maxInterstitial": "8858603cc1f90ff3",
-		"maxNative": "a5e13db48a23bdeb",
+		"MaxBanner": "4e1628733c98b947",
+		"MaxInter": "8858603cc1f90ff3",
+		"MaxNative": "a5e13db48a23bdeb",
 		
 		"ironsource_appKey": "168ad62ed",
 		
@@ -22,11 +22,10 @@
 		"unity_interstitial": "Interstitial_Android",
 	      
 	     
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
-        "ImageBannerURL" : "https://netflix-free-accounts.netlify.app/"
+        "Cpa": false,
+        "ImageUrl" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
+        "LinkCpa" : "https://netflix-free-accounts.netlify.app/"
 
-		
       },
 
     "items": [
