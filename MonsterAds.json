@@ -7,9 +7,9 @@
 	"InterstitialAd": "unity",
         "NativeAd": "max",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-4489490271278035/3731098198",
+        "InterAdmob": "ca-app-pub-4489490271278035/1440772937",
+        "NativeAdmob": "ca-app-pub-4489490271278035/3265028488",
 		
 		"MaxBanner" : "bec9d02e5065ad7e",
 		"MaxInter" :  "9455e8e7382de1a7",
