@@ -29,19 +29,7 @@
       },
 
     "items": [
-	      	         {
-        "title": "AFTER",
-        "image": "https://i.postimg.cc/3R9V5Cmx/ever-v1-2.jpg",
-		"color": "#6F38C5",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "رابط الفيلم",
-		"setLink": "https://www.facebook.com/watch/?v=874763810361798&ref=sharing",
-        "image_link": "",
-        "text": "بعد اكتشاف العديد من الحقائق المروعة حول عائلتهما، يكتشف الحبيبان تيسا وهاردين أنهما ليسا مختلفين عن بعضهما البعض، وأنهما تعرضا للعديد من التغيرات في شخصيتهما.",
-        "isNative": false,
-		"background": "#87A2FB"
-      },
+
 	    	   	         {
         "title": "The words",
         "image": "https://i.postimg.cc/8cVJGNb4/images.jpg",
