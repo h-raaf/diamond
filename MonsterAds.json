@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "max",
-	"InterstitialAd": "unity",
+	"InterstitialAd": "max",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-4489490271278035/3731098198",
