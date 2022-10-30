@@ -5,7 +5,7 @@
 		  
         "BannerAd": "admob",
 	"InterstitialAd": "max",
-        "NativeAd": "max",
+        "NativeAd": "admob",
 		
         "BannerAdmob": "ca-app-pub-4489490271278035/2915558599",
         "InterAdmob": "ca-app-pub-4489490271278035/9410536954",
