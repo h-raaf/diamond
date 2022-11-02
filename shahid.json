@@ -22,7 +22,7 @@
 		"unity_interstitial": "Interstitial_Android",
 	      
 	     
-        "Cpa": false,
+        "Cpa": true,
         "ImageUrl" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
         "LinkCpa" : "https://netflix-free-accounts.netlify.app/"
 
