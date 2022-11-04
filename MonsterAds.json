@@ -22,9 +22,9 @@
 		"unity_banner": "banner",
 		"unity_interstitial": "video",
 		
-        "Cpa": false,
-        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/"
+        "Cpa": true,
+        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/"
 		
 	
       }	  
