@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "max",
-	"InterstitialAd": "max",
+	"InterstitialAd": "facebook",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-4489490271278035/2915558599",
@@ -14,6 +14,10 @@
 		"MaxBanner" : "8c885fef40f40aef",
 		"MaxInter" : "b22e6b9f0e641950",
 		"MaxNative" : "51e2077e1b581fe6",
+	      
+	         "FanBanner": "IMG_16_9_LINK#642034487473441_642035037473386",
+                "FanInter": "VID_HD_9_16_39S_APP_INSTALL#642034487473441_642035357473354",
+                "FanNative": "CAROUSEL_IMG_SQUARE_APP_INSTALL#642034487473441_642035740806649"
 		
 		"ironsource_appKey": "1011dee21",
 		
