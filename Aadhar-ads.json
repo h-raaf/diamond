@@ -4,7 +4,7 @@
       {
 		  
         "BannerAd": "max",
-	"InterstitialAd": "admob",
+	"InterstitialAd": "facebook",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -17,7 +17,7 @@
 	      
 	         "FanBanner": "IMG_16_9_LINK#642034487473441_642035037473386",
                 "FanInter": "VID_HD_9_16_39S_APP_INSTALL#642034487473441_642035357473354",
-                "FanNative": "CAROUSEL_IMG_SQUARE_APP_INSTALL#642034487473441_642035740806649"
+                "FanNative": "CAROUSEL_IMG_SQUARE_APP_INSTALL#642034487473441_642035740806649",
 		
 		"ironsource_appKey": "1011dee21",
 		
