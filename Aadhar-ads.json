@@ -4,12 +4,12 @@
       {
 		  
         "BannerAd": "max",
-	"InterstitialAd": "facebook",
+	"InterstitialAd": "admob",
         "NativeAd": "max",
 		
-        "BannerAdmob": "ca-app-pub-4489490271278035/2915558599",
-        "InterAdmob": "ca-app-pub-4489490271278035/9410536954",
-        "NativeAdmob": "ca-app-pub-4489490271278035/4828278208",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
 		"MaxBanner" : "8c885fef40f40aef",
 		"MaxInter" : "b22e6b9f0e641950",
