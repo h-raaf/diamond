@@ -1,30 +1,49 @@
 {
   "GuideData": {
-    "AdsController": 
-      {
-        "BannerAd": "max",
-	"InterstitialAd": "max",
-        "NativeAd": "max",
+    "AdsController": {
+	    		
+	   "BannerAd": "max",
+	   "InterstitialAd": "max",
+           "NativeAd": "facebook",
+
+	 "BannerAdsAc1": "facebook",
+	 "BannerAdsAc2": "admob",
+	 "BannerAdsAc3": "max",
+	 "BannerAdsAc4": "facebook",
+	    
+	 "InterAdsAc1": "facebook",
+	 "InterAdsAc2": "admob",
+	 "InterAdsAc3": "max",
+	 "InterAdsAc4": "facebook",
+	    
+	 "NativeAdsAc1": "facebook",
+	 "NativeAdsAc2": "admob",
+	 "NativeAdsAc3": "max",
+	 "NativeAdsAc4": "facebook",
 		
-	"BannerAdmob": "ca-app-pub-4489490271278035/5565309644",
-        "InterAdmob": "ca-app-pub-4489490271278035/3102797834",
-        "NativeAdmob": "ca-app-pub-4489490271278035/4420636984",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"MaxBanner": "b39870d42aa9902c",
-		"MaxInter": "a8c84a2a468a64f4",
-		"MaxNative": "ecdf269af391f4da",
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" :  "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
+	    
+       "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+	    
+	"ironsource_appKey": "1011dee21",
 		
-		"ironsource_appKey": "168ad62ed",
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
 		
-		"unity_game_id": "4937988",
-		"unity_test": false,
-		"unity_banner": "banner_id",
-		"unity_interstitial": "Interstitial_Android",
-	      
-	     
-        "Cpa": true,
-        "ImageUrl" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
-        "LinkCpa" : "https://netflix-free-accounts.netlify.app/"
+        "Cpa": false,
+        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/"
 
       },
 
