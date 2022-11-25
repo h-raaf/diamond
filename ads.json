@@ -1,35 +1,30 @@
 {
-	"GuideData": {
-		"AdsController": {
-
-			"BannerAd": "max",
-			"InterstitialAd": "max",
-			"NativeAd": "max",
-
-			"BannerAdmob": "ca-app-pub-3520850150587820/3306523957",
-			"InterAdmob": "ca-app-pub-3520850150587820/9213456758",
-			"NativeAdmob": "ca-app-pub-3520850150587820/2731808886",
-			
-	        "MaxBanner" : "40939036b5d2b4db",
-		"MaxInter" :  "9f071cdb52e997e7",
-		"MaxNative" : "4cdbcfa18ab1983f",
-
-                "FanBanner": "IMG_16_9_LINK#642034487473441_642035037473386",
-                "FanInter": "VID_HD_9_16_39S_APP_INSTALL#642034487473441_642035357473354",
-                "FanNative": "CAROUSEL_IMG_SQUARE_APP_INSTALL#642034487473441_642035740806649",
-		"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
-
-
-			"ironsource_appKey": "1011dee21",
-
-			"unity_game_id": "3883855",
-			"unity_test": true,
-			"unity_banner": "banner",
-			"unity_interstitial": "video",
-
-			"Cpa": false,
-			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
-			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		
+		"MaxBanner" : "40dfb5ae75145eaf",
+		"MaxInter" : "4f7ffa25349b4200",
+		"MaxNative" : "f1cba2a855a7a603",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
+        "LinkCpa" : "https://cpabuild.com/"
 		
 	
       }	  
