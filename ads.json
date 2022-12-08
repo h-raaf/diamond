@@ -27,7 +27,7 @@
 		"unity_banner": "banner",
 		"unity_interstitial": "video",
 		
-        "Cpa": false,
+        "Cpa": true,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/"
 		
