@@ -3,9 +3,9 @@
 	    
         "show_ads": true,
 	    
-        "bannerAd": "admob",
+        "bannerAd": "unity",
         "InterAd": "facebook",
-        "NativeAd": "max",
+        "NativeAd": "facebook",
 		
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
