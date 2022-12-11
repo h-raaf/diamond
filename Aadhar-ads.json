@@ -3,7 +3,7 @@
 	    
         "show_ads": true,
 	    
-        "bannerAd": "unity",
+        "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "max",
 		
