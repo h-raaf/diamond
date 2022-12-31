@@ -3,9 +3,9 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
+        "BannerAd": "admob",
         "InterstitialAd": "admob",
-        "NativeAd": "max",
+        "NativeAd": "admob",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -16,9 +16,9 @@
         "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
 	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
 		
-		"MaxBanner" : "40dfb5ae75145eaf",
-		"MaxInter" : "4f7ffa25349b4200",
-		"MaxNative" : "f1cba2a855a7a603",
+		"MaxBanner" : "",
+		"MaxInter" : "9ab1059f9a27cc5f",
+		"MaxNative" : "2c5db77f6692fd1d",
 		
 		"ironsource_appKey": "1011dee21",
 		
