@@ -3,9 +3,12 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "admob",
         "InterstitialAd": "facebook",
-        "NativeAd": "facebook",
+        "NativeAd": "admob",
+	      
+	"FirstBanner": "facebook",
+        "MainBanner": "max",
 	      
 	"InterBtn1": "facebook",
         "InterBtn2": "admob",
@@ -13,7 +16,9 @@
         "InterBtn4": "admob",
         "InterBtn5": "facebook",
         "InterBtn6": "max",
-
+	      
+	"FirstNative": "max",
+        "MainNative": "facebook",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
