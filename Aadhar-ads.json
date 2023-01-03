@@ -5,7 +5,7 @@
 		  
         "BannerAd": "admob",
         "InterstitialAd": "facebook",
-        "NativeAd": "admob",
+        "NativeAd": "facebook",
 	      
 	"FirstBanner": "facebook",
         "MainBanner": "max",
