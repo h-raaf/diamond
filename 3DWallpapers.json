@@ -1,8 +1,8 @@
 {
     "Ads": {
-        "show_ads": false,
+        "show_ads": true,
         
-        "bannerAd": "unity",
+        "bannerAd": "facebook",
         "InterAd": "admob",
         "NativeAd": "max",
         
