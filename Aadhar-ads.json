@@ -7,18 +7,11 @@
         "InterstitialAd": "facebook",
         "NativeAd": "admob",
 	      
-	"FirstBanner": "facebook",
-        "MainBanner": "max",
-	      
-	"InterBtn1": "facebook",
-        "InterBtn2": "admob",
-        "InterBtn3": "facebook",
-        "InterBtn4": "admob",
-        "InterBtn5": "facebook",
-        "InterBtn6": "max",
-	      
-	"FirstNative": "max",
-        "MainNative": "facebook",
+	"InterImage": "facebook",
+        "InterVideo": "admob",
+        "InterAudio": "facebook",
+        "InterDocs": "",
+        "InterOther": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
