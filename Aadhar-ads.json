@@ -5,9 +5,9 @@
 		  
         "BannerAd": "facebook",
         "InterstitialAd": "facebook",
-        "NativeAd": "admob",
+        "NativeAd": "facebook",
 	      
-	"InterImage": "facebook",
+	"InterImage": "",
         "InterVideo": "admob",
         "InterAudio": "facebook",
         "InterDocs": "",
