@@ -48,11 +48,11 @@
 
 		},
 
-		"items": [
-	  	 {
-        "title": "What is ChatGPT stand for?",
-        "image": "https://i.postimg.cc/MTTZ1W4g/img1.png",
-        "color": "#078513",
+    "items": [
+      {
+        "title": "Dark Meadow: The Pact",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "color": "#000000",
         "text_size": "25",
         "isLink": true,
 		"link_title": "Get Coins",
@@ -60,12 +60,12 @@
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasd",
         "isNative": false,
-		"background": "#FFF"
+		"background": "#00FF00"
       },
       {
-        "title": "What ChatGPT can do?",
-        "image": "https://i.postimg.cc/CMRkgY1v/img2.jpg",
-		"color": "#078513",
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -73,12 +73,12 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#FFF"
+		"background": "#00FF00"
       },
       {
-        "title": "How to use ChatGPT?",
-        "image": "https://i.postimg.cc/sDpBj2RJ/img3.jpg",
-		"color": "#078513",
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -86,12 +86,12 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#FFF"
+		"background": "#00FF00"
       },
       {
-        "title": "What is a GPT-3 chatbot?",
-        "image": "https://i.postimg.cc/SxdJ9tR2/img4.jpg",
-		"color": "#078513",
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -99,12 +99,12 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#FFF"
+		"background": "#00FF00"
       },
       {
-        "title": "GPT-3 examples",
-        "image": "https://i.postimg.cc/Ls05CYzm/img5.png",
-		"color": "#078513",
+        "title": "Bloody Mary",
+        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -112,12 +112,12 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#FFF"
+		"background": "#00FF00"
       },
       {
-        "title": "Is ChatGPT free?",
-        "image": "https://i.postimg.cc/zXSBmPnt/img6.jpg",
-		"color": "#078513",
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -125,7 +125,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#FFF"
+		"background": "#00FF00"
       }
     ]
 
