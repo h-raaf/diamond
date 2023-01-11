@@ -57,12 +57,12 @@
         "color": "#078513",
         "text_size": "25",
         "isLink": false,
-		"link_title": "",
-		"setLink": "",
+	"link_title": "",
+	"setLink": "",
         "image_link":"",
-		"text": " ChatGPT is a large language model chatbot developed by OpenAI based on GPT-3.5. It has a remarkable ability to interact in conversational dialogue form and provide responses that can appear surprisingly human. \n\n Large language models perform the task of predicting the next word in a series of words. \n\n Reinforcement Learning with Human Feedback (RLHF) is an additional layer of training that uses human feedback to help ChatGPT learn the ability to follow directions and generate responses that are satisfactory to humans.",
+	"text": " ChatGPT is a large language model chatbot developed by OpenAI based on GPT-3.5. It has a remarkable ability to interact in conversational dialogue form and provide responses that can appear surprisingly human. \n\n Large language models perform the task of predicting the next word in a series of words. \n\n Reinforcement Learning with Human Feedback (RLHF) is an additional layer of training that uses human feedback to help ChatGPT learn the ability to follow directions and generate responses that are satisfactory to humans.",
         "isNative": false,
-		"background": "#FFF"
+	"background": "#FFF"
       },
 	  	  
 	  	  {
@@ -71,12 +71,12 @@
         "color": "#078513",
         "text_size": "25",
         "isLink": false,
-		"link_title": "",
-		"setLink": "",
+	"link_title": "",
+	"setLink": "",
         "image_link": "",
-		"text": "  ChatGPT was trained using a mix of machine learning and human intervention, using a method called reinforcement learning from human feedback (RLHF). \n\n  In fact, the first stage of training involved humans playing the role of both a human user and an AI assistant having a conversation. This helped to demonstrate responses that are preferred by humans and go towards building a large dataset to feed the model. \n\n  Next, a reward model needed to be created for reinforcement learning. To do this, human AI trainers once again stepped in, but this time they were asked to rank several model answers by quality, further helping ChatGPT choose the best response. \n\n  All of this is to say, humans had a hand in helping to train ChatGPT so that its answers are not only factually accurate but written in a natural, human-like way. From AI voice generators to AI writing tools, it's clear that the future will be shaped by these powerful machine learning tools. \n\n  Another important point to remember is that ChatGPT doesn't always provide factually correct answers, and it can produce biased content too. This technology is still in development and isn't yet foolproof. \n\n",
+	"text": "  ChatGPT was trained using a mix of machine learning and human intervention, using a method called reinforcement learning from human feedback (RLHF). \n\n  In fact, the first stage of training involved humans playing the role of both a human user and an AI assistant having a conversation. This helped to demonstrate responses that are preferred by humans and go towards building a large dataset to feed the model. \n\n  Next, a reward model needed to be created for reinforcement learning. To do this, human AI trainers once again stepped in, but this time they were asked to rank several model answers by quality, further helping ChatGPT choose the best response. \n\n  All of this is to say, humans had a hand in helping to train ChatGPT so that its answers are not only factually accurate but written in a natural, human-like way. From AI voice generators to AI writing tools, it's clear that the future will be shaped by these powerful machine learning tools. \n\n  Another important point to remember is that ChatGPT doesn't always provide factually correct answers, and it can produce biased content too. This technology is still in development and isn't yet foolproof. \n\n",
         "isNative": false,
-		"background": "#000000"
+	"background": "#000000"
       },	  
 	  	  {
         "title": "How to use ChatGPT?",
