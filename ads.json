@@ -62,19 +62,21 @@
         "isNative": false,
 		"background": "#FFF"
       },
-      {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-		"color": "#FFFFFF",
+      
+				  	  {
+        "title": "What ChatGPT can do?",
+        "image": "https://i.postimg.cc/CMRkgY1v/img2.jpg",
+        "color": "#078513",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+		"text": "  ChatGPT was trained using a mix of machine learning and human intervention, using a method called reinforcement learning from human feedback (RLHF). \n\n  In fact, the first stage of training involved humans playing the role of both a human user and an AI assistant having a conversation. This helped to demonstrate responses that are preferred by humans and go towards building a large dataset to feed the model. \n\n  Next, a reward model needed to be created for reinforcement learning. To do this, human AI trainers once again stepped in, but this time they were asked to rank several model answers by quality, further helping ChatGPT choose the best response. \n\n  All of this is to say, humans had a hand in helping to train ChatGPT so that its answers are not only factually accurate but written in a natural, human-like way. From AI voice generators to AI writing tools, it's clear that the future will be shaped by these powerful machine learning tools. \n\n  Another important point to remember is that ChatGPT doesn't always provide factually correct answers, and it can produce biased content too. This technology is still in development and isn't yet foolproof. \n\n",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
+	      
       {
         "title": "Call of Cthulhu: Wasted Land ",
         "image": "https://usercontent1.hubstatic.com/6961608.jpg",
