@@ -50,17 +50,17 @@
 
 		"items": [
 {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
+        "title": "How To Sync Huawei Health With Strava",
+        "image": "https://i.postimg.cc/SskDRVDq/752dc225-40be-4e9d-837e-2757ca45bd8b.jpg",
+        "color": "#ff8b1c",
         "text_size": "25",
         "isLink": true,
-		"link_title": "Get Coins",
-		"setLink": "https://www.google.com",
+        "link_title": "Get Coins",
+	"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
+        "text": "If you’re currently logged into Huawei Health with an existing Huawei ID you’ll need to log out. Existing activity data on your current account will not be synced with Strava, it will only sync new data after you’ve paired Huawei Health with Strava natively. Open Huawei Health, tap the Me tab, tap your profile picture at the top, and tap the Log out button.",
         "isNative": false,
-		"background": "#00FF00"
+	"background": "#000000"
       },
       {
         "title": "The Old 2",
