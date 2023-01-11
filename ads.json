@@ -76,7 +76,7 @@
 		"background": "#000000"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
+        "title": "How to use ChatGPT?",
         "image": "https://usercontent1.hubstatic.com/6961608.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -90,16 +90,16 @@
       },
       {
         "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+        "image": "https://i.postimg.cc/sDpBj2RJ/img3.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": " The ChatGPT webpage is simple and includes an area for the results to populate and a text box at the bottom of the page for you to type your inquiries. We started with questions; however, OpenAI recommends inputting a statement for the best possible result. \n\n  For example, inputting “explain how the solar system was made” will give a more detailed result with more paragraphs than “how was the solar system made,” even though both inquiries will give fairly detailed results. You also have the option to get more specific inputting requests for an essay with a specific number of paragraphs or a Wikipedia page. We got an extremely detailed result, with the request “write a four-paragraph essay explaining Mary Shelley’s Frankenstein.” \n\n  If there is enough information available, the generator will fulfill the commands with accurate details. Otherwise, there is potential for ChatGPT to begin filling in gaps with incorrect data. OpenAI notes that these instances are rare. The brand also notes that ChatGPT also currently has “limited knowledge of world events after 2021.” \n\n  Even so, you have the option to input queries continuously until you close your browser or reset the thread to clear your previous requests. You also have the option to use ChatGPT in dark mode or light mode. \n\n  You can access the OpenAI Discord server and blog from this webpage and log out from there.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
         "title": "Bloody Mary",
