@@ -49,6 +49,20 @@
 		},
 
 		"items": [
+			
+		      {
+        "title": "Dark Meadow: The Pact",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "sdsdasdsdasd ssa dadas dasd",
+        "isNative": false,
+		"background": "#00FF00"
+      },	
 			{
 				"title": "How To Sync Huawei Health With Strava",
 				"image": "https://i.postimg.cc/SskDRVDq/752dc225-40be-4e9d-837e-2757ca45bd8b.jpg",
