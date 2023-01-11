@@ -1,111 +1,109 @@
 {
-  "GuideData": {
-    "AdsController": {
-	    		
-	   "BannerAd": "admob",
-	   "InterstitialAd": "max",
-           "NativeAd": "admob",
+	"GuideData": {
+		"AdsController": {
 
-	 "BannerAdsAc1": "admob",
-	 "BannerAdsAc2": "admob",
-	 "BannerAdsAc3": "admob",
-	    
-	 "InterAdsAc0": "admob",
-	 "InterAdsAc1": "admob",
-	 "InterAdsAc2": "admob",
-	 "InterAdsAc3": "admob",
-	    
-	 "NativeAdsAc1": "admob",
-	 "NativeAdsAc2": "admob",
-	 "NativeAdsAc3": "admob",
-	 "NativeAdsAc4": "admob",
-	 "NativeAdsAc5": "admob",
+			"BannerAd": "admob",
+			"InterstitialAd": "max",
+			"NativeAd": "admob",
 
-		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-		
-		"MaxBanner" : "YOUR_AD_UNIT_ID",
-		"MaxInter" :  "YOUR_AD_UNIT_ID",
-		"MaxNative" : "YOUR_AD_UNIT_ID",
-	    
-       "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
-	    
-	"ironsource_appKey": "1011dee21",
-		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
-		
-        "Cpa": false,
-        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
-        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/"
+			"BannerAdsAc1": "admob",
+			"BannerAdsAc2": "admob",
+			"BannerAdsAc3": "admob",
 
-      },
-		  
-		      "items": [
-           {
-        "title": "How To Sync Huawei Health With Strava",
-        "image": "https://i.postimg.cc/SskDRVDq/752dc225-40be-4e9d-837e-2757ca45bd8b.jpg",
-        "color": "#ff8b1c",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "If you’re currently logged into Huawei Health with an existing Huawei ID you’ll need to log out. Existing activity data on your current account will not be synced with Strava, it will only sync new data after you’ve paired Huawei Health with Strava natively. Open Huawei Health, tap the Me tab, tap your profile picture at the top, and tap the Log out button. If you’re using a Huawei phone you’ll also want to log out your Huawei ID in the phone’s Settings menu. \n\n  Next we want to wipe the data in Huawei Health. Go to Apps in your phone’s Settings menu, Force Stop Huawei Health, and clear the cache and data for Huawei Health. \n\n  Turn on airplane mode. This stops Huawei Health from automatically signing you back into your existing Huawei ID. Factory reset your wearable. \n\n  Launch Huawei Health. You should have the option to choose your country at the top. Select a country that has native support for Strava already (e.g. Singapore). Tap Next. \n\n  Tap Agree on the next screen. You should now be on the main Huawei Health dashboard screen.  \n\n  Disable airplane mode on your phone and wait for the internet to reconnect. Tap the Me tab in Huawei Health and then Log in with Huawei ID at the top of the screen. You don’t want to sign in with any pre-existing credentials. You want to create a new account by tapping the Register button. \n\n  On the next screen ensure Singapore (or whichever Strava-supporting country you chose earlier) is selected as your region and tap Next. Enter your date of birth and tap Next. \n\n  You’ll now see two options: Use phone number and Use email address. Register your new Huawei ID using either an email address or telephone number not already associated with a Huawei ID. I opted for email address. \n\n  Create a password for your new Huawei ID. \n\n  Enter a security phone number or email. This is just to receive a code, so it should be a phone number/email you actually have access to (it doesn’t have to be from the country you chose). If you don’t have a spare phone number you can use a friend’s number or a web service that allows you to receive messages online from a spoof phone number. \n\n  Enter the verification code and tap Finish. \n\n  Verify your email address by opening the email sent to you and tapping Verify. You can now go back to Huawei Health and tap Verified. \n\n  You should now be logged into Huawei Health with your new Huawei ID. \n\n  If you want your heart rate data to be synced to Strava you’ll first need to allow the heart-rate data permission in the Strava app before connecting Huawei Health to it. Go to the Strava app, tap the Settings icon in the top right and tap Data permissions. Tap Health-related data and tap Allow to grant access. \n\n  Go back to Huawei Health. Go to the Me tab and tap Privacy management. Scroll down and tap Data sharing and authorization. You should now see Strava as an option. Tap it. \n\n  Tap Connect with Strava. Sign into your Strava account. Tap Authorize on the next screen to connect Huawei Health with Strava. You should see a success message. \n\n  Pair your Huawei wearable to your phone with your new Huawei Health account. \n\n  The next time you track an activity on your Huawei wearable it will be synced automatically with Strava. If it doesn’t appear straight away, ensure the activity has been synced with Huawei Health first and then swipe down on the Strava home screen to refresh. ",
-        "isNative": false,
-		"background": "#FFF"
-      },
-	  
-	        {
-        "title": "Walktrough Export Activity Data From Huawei Health",
-        "image": "https://i.postimg.cc/PrYyWB9h/maxresdefault.jpg",
-        "color": "#ff8b1c",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "If you want to export all of your Huawei Health data you can do so: \n\n  * Go to the Huawei Health app’s Settings menu. \n  * Tap the Me tab. \n  * Tap your user profile at the top of the screen. \n  * Tap Privacy center. \n  * Tap Request your data. \n  * Enter the password associated with your Huawei ID. \n  * Obtain and enter the verification code. \n  * On the Obtain your data copy screen, scroll down and check the box next to Health. Scroll to the bottom of the screen and tap Submit. \n  * Select a file size (1GB, 2GB, or 3GB). This determines how large each file will be (it may need to be split into multiple files). Click Submit. \n  * Create a password to encrypt and decrypt your health data. Make sure you keep a record of this as you’ll need it again later. Confirm your request. \n  * Wait for your Huawei Health data to be emailed to you. Huawei advises it may take up to seven days although mine only took two days to arrive. Keep an eye on your spam folder in case the email skips your inbox. \n  * Once you download your health data in a .zip file, you can use a tool like Hitrava to convert it ready for upload to Strava.",
-        "isNative": false,
-		"background": "#111"
-      },
-	  
-	  {
-        "title": "Walktrough Upload Huawei Health Data To Strava",
-        "image": "https://i.postimg.cc/dVShL060/huawei-salud-strava.jpg",
-        "color": "#ff8b1c",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Once you have your health data in a format you can upload to Strava (.tcx, .gpx, or .fit files under 25MB) you can upload it to your Strava account with your computer. \n\n  * Log in to your Strava account on your desktop. \n  * Click on the + symbol in the top right of the screen. \n  * Click Upload activity. \n  * On the left-hand side of the next screen, click File. \n  * Click the Choose file button and navigate to the health data files on your computer you wish to upload to Strava. \n  * You can add additional information about your uploaded activities in Strava.",
-        "isNative": false,
-		"background": "#FFF"
-      },
-	  
-	          {
-        "title": "How To Sync Huawei Health With Strava Using Health Sync App",
-        "image": "https://i.postimg.cc/T3QrQG98/123.jpg",
-        "color": "#ff8b1c",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "If you do not wish to create a new Huawei ID you still have an option. You can sync your Huawei Health data to Strava using a third-party app called Health Sync. It’s not as reliable as syncing natively but it does work. Here’s how to do it. \n\n  Note: Health Sync only allows you to start syncing health data created after you connect it. If you want to sync historical health data you’ll have to pay a one-time subscription fee. \n\n  * Install and open the Health Sync app on your phone. Be sure to already have Huawei Health installed on your phone and be signed in with your Huawei ID. \n  * Tap OK when you see the First usage actions notification. \n  * Tap OK when you see the Sync configuration notification. \n  * Tap Huawei Health Kit on the list of sync sources. \n  * Check the box next to Strava on the list of destination apps and tap OK. \n  * Tap the button for Declaration of consent.  \n  * Tap Agree to confirm the declaration of consent. \n  * Tap the button to Initialize Strava connection. \n  * Tap OK on the Strava authorization notification. \n  * Tap Authorize on the Strava authorization screen. \n  * You’ll see a screen that says Connect with Strava. \n  * Tap OK on the Initialization finished notification. \n  * Check the boxes next to the health data you’d like to sync to Strava. You will have to authorize Huawei Health Kit individually for each item of health data. \n  * If you tap the overflow menu (three dots in the top right of the Health Sync screen) you’ll see an option for Connected apps. Tap this and you should see Strava authorization underneath Huawei Health Kit authorization. This means the sync has been correctly set up. \n  * If you want to sync historical data just pay the one-time subscription fee and you’ll be able to sync more health data from dates in the past.",
-        "isNative": false,
-		"background": "#111"
-      }
-    ]
+			"InterAdsAc0": "admob",
+			"InterAdsAc1": "admob",
+			"InterAdsAc2": "admob",
+			"InterAdsAc3": "admob",
 
-  }
+			"NativeAdsAc1": "admob",
+			"NativeAdsAc2": "admob",
+			"NativeAdsAc3": "admob",
+			"NativeAdsAc4": "admob",
+			"NativeAdsAc5": "admob",
+
+
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+			"MaxBanner": "YOUR_AD_UNIT_ID",
+			"MaxInter": "YOUR_AD_UNIT_ID",
+			"MaxNative": "YOUR_AD_UNIT_ID",
+
+			"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+			"FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+			"FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+			"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+
+			"ironsource_appKey": "1011dee21",
+
+			"unity_game_id": "3883855",
+			"unity_test": true,
+			"unity_banner": "banner",
+			"unity_interstitial": "video",
+
+			"Cpa": false,
+			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
+
+		},
+
+		"items": [{
+				"title": "How To Sync Huawei Health With Strava",
+				"image": "https://i.postimg.cc/SskDRVDq/752dc225-40be-4e9d-837e-2757ca45bd8b.jpg",
+				"color": "#ff8b1c",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "If you’re currently logged into Huawei Health with an existing Huawei ID you’ll need to log out. Existing activity data on your current account will not be synced with Strava, it will only sync new data after you’ve paired Huawei Health with Strava natively. Open Huawei Health, tap the Me tab, tap your profile picture at the top, and tap the Log out button. If you’re using a Huawei phone you’ll also want to log out your Huawei ID in the phone’s Settings menu. \n\n  Next we want to wipe the data in Huawei Health. Go to Apps in your phone’s Settings menu, Force Stop Huawei Health, and clear the cache and data for Huawei Health. \n\n  Turn on airplane mode. This stops Huawei Health from automatically signing you back into your existing Huawei ID. Factory reset your wearable. \n\n  Launch Huawei Health. You should have the option to choose your country at the top. Select a country that has native support for Strava already (e.g. Singapore). Tap Next. \n\n  Tap Agree on the next screen. You should now be on the main Huawei Health dashboard screen.  \n\n  Disable airplane mode on your phone and wait for the internet to reconnect. Tap the Me tab in Huawei Health and then Log in with Huawei ID at the top of the screen. You don’t want to sign in with any pre-existing credentials. You want to create a new account by tapping the Register button. \n\n  On the next screen ensure Singapore (or whichever Strava-supporting country you chose earlier) is selected as your region and tap Next. Enter your date of birth and tap Next. \n\n  You’ll now see two options: Use phone number and Use email address. Register your new Huawei ID using either an email address or telephone number not already associated with a Huawei ID. I opted for email address. \n\n  Create a password for your new Huawei ID. \n\n  Enter a security phone number or email. This is just to receive a code, so it should be a phone number/email you actually have access to (it doesn’t have to be from the country you chose). If you don’t have a spare phone number you can use a friend’s number or a web service that allows you to receive messages online from a spoof phone number. \n\n  Enter the verification code and tap Finish. \n\n  Verify your email address by opening the email sent to you and tapping Verify. You can now go back to Huawei Health and tap Verified. \n\n  You should now be logged into Huawei Health with your new Huawei ID. \n\n  If you want your heart rate data to be synced to Strava you’ll first need to allow the heart-rate data permission in the Strava app before connecting Huawei Health to it. Go to the Strava app, tap the Settings icon in the top right and tap Data permissions. Tap Health-related data and tap Allow to grant access. \n\n  Go back to Huawei Health. Go to the Me tab and tap Privacy management. Scroll down and tap Data sharing and authorization. You should now see Strava as an option. Tap it. \n\n  Tap Connect with Strava. Sign into your Strava account. Tap Authorize on the next screen to connect Huawei Health with Strava. You should see a success message. \n\n  Pair your Huawei wearable to your phone with your new Huawei Health account. \n\n  The next time you track an activity on your Huawei wearable it will be synced automatically with Strava. If it doesn’t appear straight away, ensure the activity has been synced with Huawei Health first and then swipe down on the Strava home screen to refresh. ",
+				"isNative": false,
+				"background": "#FFF"
+			},
+
+			{
+				"title": "Walktrough Export Activity Data From Huawei Health",
+				"image": "https://i.postimg.cc/PrYyWB9h/maxresdefault.jpg",
+				"color": "#ff8b1c",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "If you want to export all of your Huawei Health data you can do so: \n\n  * Go to the Huawei Health app’s Settings menu. \n  * Tap the Me tab. \n  * Tap your user profile at the top of the screen. \n  * Tap Privacy center. \n  * Tap Request your data. \n  * Enter the password associated with your Huawei ID. \n  * Obtain and enter the verification code. \n  * On the Obtain your data copy screen, scroll down and check the box next to Health. Scroll to the bottom of the screen and tap Submit. \n  * Select a file size (1GB, 2GB, or 3GB). This determines how large each file will be (it may need to be split into multiple files). Click Submit. \n  * Create a password to encrypt and decrypt your health data. Make sure you keep a record of this as you’ll need it again later. Confirm your request. \n  * Wait for your Huawei Health data to be emailed to you. Huawei advises it may take up to seven days although mine only took two days to arrive. Keep an eye on your spam folder in case the email skips your inbox. \n  * Once you download your health data in a .zip file, you can use a tool like Hitrava to convert it ready for upload to Strava.",
+				"isNative": false,
+				"background": "#111"
+			},
+
+			{
+				"title": "Walktrough Upload Huawei Health Data To Strava",
+				"image": "https://i.postimg.cc/dVShL060/huawei-salud-strava.jpg",
+				"color": "#ff8b1c",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Once you have your health data in a format you can upload to Strava (.tcx, .gpx, or .fit files under 25MB) you can upload it to your Strava account with your computer. \n\n  * Log in to your Strava account on your desktop. \n  * Click on the + symbol in the top right of the screen. \n  * Click Upload activity. \n  * On the left-hand side of the next screen, click File. \n  * Click the Choose file button and navigate to the health data files on your computer you wish to upload to Strava. \n  * You can add additional information about your uploaded activities in Strava.",
+				"isNative": false,
+				"background": "#FFF"
+			},
+
+			{
+				"title": "How To Sync Huawei Health With Strava Using Health Sync App",
+				"image": "https://i.postimg.cc/T3QrQG98/123.jpg",
+				"color": "#ff8b1c",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "If you do not wish to create a new Huawei ID you still have an option. You can sync your Huawei Health data to Strava using a third-party app called Health Sync. It’s not as reliable as syncing natively but it does work. Here’s how to do it. \n\n  Note: Health Sync only allows you to start syncing health data created after you connect it. If you want to sync historical health data you’ll have to pay a one-time subscription fee. \n\n  * Install and open the Health Sync app on your phone. Be sure to already have Huawei Health installed on your phone and be signed in with your Huawei ID. \n  * Tap OK when you see the First usage actions notification. \n  * Tap OK when you see the Sync configuration notification. \n  * Tap Huawei Health Kit on the list of sync sources. \n  * Check the box next to Strava on the list of destination apps and tap OK. \n  * Tap the button for Declaration of consent.  \n  * Tap Agree to confirm the declaration of consent. \n  * Tap the button to Initialize Strava connection. \n  * Tap OK on the Strava authorization notification. \n  * Tap Authorize on the Strava authorization screen. \n  * You’ll see a screen that says Connect with Strava. \n  * Tap OK on the Initialization finished notification. \n  * Check the boxes next to the health data you’d like to sync to Strava. You will have to authorize Huawei Health Kit individually for each item of health data. \n  * If you tap the overflow menu (three dots in the top right of the Health Sync screen) you’ll see an option for Connected apps. Tap this and you should see Strava authorization underneath Huawei Health Kit authorization. This means the sync has been correctly set up. \n  * If you want to sync historical data just pay the one-time subscription fee and you’ll be able to sync more health data from dates in the past.",
+				"isNative": false,
+				"background": "#111"
+			}
+		]
+
+	}
 }
-
