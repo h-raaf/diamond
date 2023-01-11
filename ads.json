@@ -52,15 +52,15 @@
       {
         "title": "What is ChatGPT stand for?",
         "image": "https://i.postimg.cc/MTTZ1W4g/img1.png",
-        "color": "#000000",
+        "color": "#FFFFFF",
         "text_size": "25",
-        "isLink": true,
+        "isLink": false,
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": " ChatGPT is a large language model chatbot developed by OpenAI based on GPT-3.5. It has a remarkable ability to interact in conversational dialogue form and provide responses that can appear surprisingly human. \n\n Large language models perform the task of predicting the next word in a series of words. \n\n Reinforcement Learning with Human Feedback (RLHF) is an additional layer of training that uses human feedback to help ChatGPT learn the ability to follow directions and generate responses that are satisfactory to humans.",
         "isNative": false,
-		"background": "#FFFFFF"
+		"background": "#000000"
       },
       {
         "title": "What ChatGPT can do?",
