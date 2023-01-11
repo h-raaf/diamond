@@ -77,19 +77,6 @@
       },
       {
         "title": "How to use ChatGPT?",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Dead Space Android",
         "image": "https://i.postimg.cc/sDpBj2RJ/img3.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -102,30 +89,43 @@
 		"background": "#000000"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "title": "What is a GPT-3 chatbot?",
+        "image": "https://i.postimg.cc/SxdJ9tR2/img4.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": " Well, that’s the fun part. Since its launch, people have been experimenting to discover everything the chatbot can and can’t do. Some have speculated about the negative ways this type of AI-created text will affect online content, or even wondered if high school essays might be a thing of the past. \n\n  Our writers experimented with ChatGPT too, attempting to see if it could handle holiday shopping or even properly interpret astrological makeup. In both cases, we found limitations to what it could do while still being thoroughly impressed by the results. \n\n  But the fun is in trying it out yourself. Whether you think ChatGPT is an amazing piece of tech or will lead to the destruction of the internet as we know it, it’s worth trying out for yourself to see just what it’s capable of.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+        "title": "GPT-3 examples",
+        "image": "https://i.postimg.cc/Ls05CYzm/img5.png",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "  As a result of its powerful text generation capabilities, GPT-3 can be used in a wide range of ways. GPT-3 is used to generate creative writing such as blog posts, advertising copy, and even poetry that mimics the style of Shakespeare, Edgar Allen Poe and other famous authors. \n\n  Using only a few snippets of example code text, GPT-3 can create workable code that can be run without error, as programming code is just a form of text. GPT-3 has also been used to powerful effect to mock up websites. Using just a bit of suggested text, one developer has combined the UI prototyping tool Figma with GPT-3 to create websites just by describing them in a sentence or two. GPT-3 has even been used to clone websites by providing a URL as suggested text. Developers are using GPT-3 in several ways, from generating code snippets, regular expressions, plots and charts from text descriptions, Excel functions and other development applications. \n\n  GPT-3 is also being used in the gaming world to create realistic chat dialog, quizzes, images and other graphics based on text suggestions. GPT-3 can generate memes, recipes and comic strips, as well.",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#000000"
+      },
+      {
+        "title": "Is ChatGPT free?",
+        "image": "https://i.postimg.cc/zXSBmPnt/img6.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "  OpenAI does make some of its models and other resources available for free to researchers and developers who are interested in using them for research or development purposes. \n\n For example, OpenAI has released several versions of GPT, including GPT-2 and GPT-3, under an open-source license, which allows researchers and developers to use and modify the models for non-commercial purposes. However, the models are not free to use for commercial purposes, and OpenAI charges fees for the commercial use of its models and other resources. \n\n  Additionally, OpenAI has released a number of tools and libraries that make it easier for researchers and developers to use its models, including tools for training and fine-tuning language models, as well as tools for deploying models in production environments. Most of these tools and libraries are free, but some may have limits on how they can be used or require users to sign up for an API key. \n\n  Overall, while GPT itself is not free to use, there are a number of resources and tools available from OpenAI that can make it easier for researchers and developers to use the model for research and development purposes.",
+        "isNative": false,
+		"background": "#000000"
       }
     ]
 
