@@ -49,86 +49,83 @@
 		},
 
 		"items": [
-	  	 
-	  
-	  	  {
+	  	 {
         "title": "What is ChatGPT stand for?",
         "image": "https://i.postimg.cc/MTTZ1W4g/img1.png",
         "color": "#078513",
         "text_size": "25",
-        "isLink": false,
-	"link_title": "",
-	"setLink": "",
-        "image_link":"",
-	"text": "First",
+        "isLink": true,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "sdsdasdsdasd ssa dadas dasd",
         "isNative": false,
-	"background": "#FFF"
+		"background": "#FFF"
       },
-	  	  
-	  	  {
+      {
         "title": "What ChatGPT can do?",
         "image": "https://i.postimg.cc/CMRkgY1v/img2.jpg",
-        "color": "#078513",
+		"color": "#078513",
         "text_size": "25",
         "isLink": false,
-	"link_title": "",
-	"setLink": "",
+		"link_title": "",
+		"setLink": "",
         "image_link": "",
-	"text": "Sec",
+        "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background": "#000000"
-      },	  
-	  	  {
+		"background": "#FFF"
+      },
+      {
         "title": "How to use ChatGPT?",
         "image": "https://i.postimg.cc/sDpBj2RJ/img3.jpg",
-        "color": "#078513",
+		"color": "#078513",
         "text_size": "25",
         "isLink": false,
-	"link_title": "",
-	"setLink": "",
+		"link_title": "",
+		"setLink": "",
         "image_link": "",
-        "text": "Third",
-	"isNative": false,
-	"background": "#FFF"
-      },	  
-	  	  {
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFF"
+      },
+      {
         "title": "What is a GPT-3 chatbot?",
         "image": "https://i.postimg.cc/SxdJ9tR2/img4.jpg",
-        "color": "#078513",
+		"color": "#078513",
         "text_size": "25",
         "isLink": false,
-	"link_title": "",
-	"setLink": "",
+		"link_title": "",
+		"setLink": "",
         "image_link": "",
-        "text": "Forth",
-	"isNative": false,
-	"background": "#FFF"
-      },	  
-	  	  {
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#FFF"
+      },
+      {
         "title": "GPT-3 examples",
         "image": "https://i.postimg.cc/Ls05CYzm/img5.png",
-        "color": "#078513",
+		"color": "#078513",
         "text_size": "25",
         "isLink": false,
-	"link_title": "",
-	"setLink": "",
+		"link_title": "",
+		"setLink": "",
         "image_link": "",
-        "text": "Fifth",
+        "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background": "#FFF"
-      },	  
-	  	  {
+		"background": "#FFF"
+      },
+      {
         "title": "Is ChatGPT free?",
         "image": "https://i.postimg.cc/zXSBmPnt/img6.jpg",
-        "color": "#078513",
+		"color": "#078513",
         "text_size": "25",
         "isLink": false,
-	"link_title": "",
-	"setLink": "",
+		"link_title": "",
+		"setLink": "",
         "image_link": "",
-        "text": "Sixth",
+        "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background": "#FFF"
+		"background": "#FFF"
       }
     ]
 
