@@ -3,19 +3,19 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
-        "InterstitialAd": "max",
-        "NativeAd": "max",
+        "BannerAd": "facebook",
+        "InterstitialAd": "admob",
+        "NativeAd": "facebook",
 	      
 	"FirstBanner": "max",
         "MainBanner": "max",
 	      
-	"InterBtn1": "max",
-        "InterBtn2": "max",
-        "InterBtn3": "max",
-        "InterBtn4": "max",
-        "InterBtn5": "max",
-        "InterBtn6": "max",
+	"InterBtn1": "admob",
+        "InterBtn2": "facebook",
+        "InterBtn3": "admob",
+        "InterBtn4": "facebook",
+        "InterBtn5": "admob",
+        "InterBtn6": "facebook",
 	      
 	"FirstNative": "max",
         "MainNative": "max",
