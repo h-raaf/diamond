@@ -1,133 +1,49 @@
 {
-	"GuideData": {
-		"AdsController": {
-
-			"BannerAd": "facebook",
-			"InterstitialAd": "admob",
-			"NativeAd": "max",
-
-			"BannerAdsAc1": "admob",
-			"BannerAdsAc2": "max",
-			"BannerAdsAc3": "facebook",
-
-			"InterAdsAc0": "admob",
-			"InterAdsAc1": "facebook",
-			"InterAdsAc2": "admob",
-			"InterAdsAc3": "facebook",
-
-			"NativeAdsAc1": "admob",
-			"NativeAdsAc2": "facebook",
-			"NativeAdsAc3": "admob",
-			"NativeAdsAc4": "max",
-			"NativeAdsAc5": "facebook",
-
-
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-			"MaxBanner": "YOUR_AD_UNIT_ID",
-			"MaxInter": "YOUR_AD_UNIT_ID",
-			"MaxNative": "YOUR_AD_UNIT_ID",
-
-			"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-			"FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-			"FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-			"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
-
-			"ironsource_appKey": "1011dee21",
-
-			"unity_game_id": "3883855",
-			"unity_test": true,
-			"unity_banner": "banner",
-			"unity_interstitial": "video",
-
-			"Cpa": false,
-			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
-			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
-
-		},
-
-		 "items": [
+	  "GuideData": {
+    "AdsController": 
       {
-        "title": "What is ChatGPT stand for?",
-        "image": "https://i.postimg.cc/MTTZ1W4g/img1.png",
-        "color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "Get Coins",
-		"setLink": "https://www.google.com",
-        "image_link": "https://www.google.com",
-        "text": " ChatGPT is a large language model chatbot developed by OpenAI based on GPT-3.5. It has a remarkable ability to interact in conversational dialogue form and provide responses that can appear surprisingly human. \n\n Large language models perform the task of predicting the next word in a series of words. \n\n Reinforcement Learning with Human Feedback (RLHF) is an additional layer of training that uses human feedback to help ChatGPT learn the ability to follow directions and generate responses that are satisfactory to humans.",
-        "isNative": false,
-		"background": "#000000"
-      },
-      {
-        "title": "What ChatGPT can do?",
-        "image": "https://i.postimg.cc/CMRkgY1v/img2.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "  ChatGPT was trained using a mix of machine learning and human intervention, using a method called reinforcement learning from human feedback (RLHF). \n\n  In fact, the first stage of training involved humans playing the role of both a human user and an AI assistant having a conversation. This helped to demonstrate responses that are preferred by humans and go towards building a large dataset to feed the model. \n\n  Next, a reward model needed to be created for reinforcement learning. To do this, human AI trainers once again stepped in, but this time they were asked to rank several model answers by quality, further helping ChatGPT choose the best response. \n\n  All of this is to say, humans had a hand in helping to train ChatGPT so that its answers are not only factually accurate but written in a natural, human-like way. From AI voice generators to AI writing tools, it's clear that the future will be shaped by these powerful machine learning tools. \n\n  Another important point to remember is that ChatGPT doesn't always provide factually correct answers, and it can produce biased content too. This technology is still in development and isn't yet foolproof.",
-        "isNative": false,
-		"background": "#000000"
-      },
-      {
-        "title": "How to use ChatGPT?",
-        "image": "https://i.postimg.cc/sDpBj2RJ/img3.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": " The ChatGPT webpage is simple and includes an area for the results to populate and a text box at the bottom of the page for you to type your inquiries. We started with questions; however, OpenAI recommends inputting a statement for the best possible result. \n\n  For example, inputting “explain how the solar system was made” will give a more detailed result with more paragraphs than “how was the solar system made,” even though both inquiries will give fairly detailed results. You also have the option to get more specific inputting requests for an essay with a specific number of paragraphs or a Wikipedia page. We got an extremely detailed result, with the request “write a four-paragraph essay explaining Mary Shelley’s Frankenstein.” \n\n  If there is enough information available, the generator will fulfill the commands with accurate details. Otherwise, there is potential for ChatGPT to begin filling in gaps with incorrect data. OpenAI notes that these instances are rare. The brand also notes that ChatGPT also currently has “limited knowledge of world events after 2021.” \n\n  Even so, you have the option to input queries continuously until you close your browser or reset the thread to clear your previous requests. You also have the option to use ChatGPT in dark mode or light mode. \n\n  You can access the OpenAI Discord server and blog from this webpage and log out from there.",
-        "isNative": false,
-		"background": "#000000"
-      },
-      {
-        "title": "What is a GPT-3 chatbot?",
-        "image": "https://i.postimg.cc/SxdJ9tR2/img4.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": " Well, that’s the fun part. Since its launch, people have been experimenting to discover everything the chatbot can and can’t do. Some have speculated about the negative ways this type of AI-created text will affect online content, or even wondered if high school essays might be a thing of the past. \n\n  Our writers experimented with ChatGPT too, attempting to see if it could handle holiday shopping or even properly interpret astrological makeup. In both cases, we found limitations to what it could do while still being thoroughly impressed by the results. \n\n  But the fun is in trying it out yourself. Whether you think ChatGPT is an amazing piece of tech or will lead to the destruction of the internet as we know it, it’s worth trying out for yourself to see just what it’s capable of.",
-        "isNative": false,
-		"background": "#000000"
-      },
-      {
-        "title": "GPT-3 examples",
-        "image": "https://i.postimg.cc/Ls05CYzm/img5.png",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "  As a result of its powerful text generation capabilities, GPT-3 can be used in a wide range of ways. GPT-3 is used to generate creative writing such as blog posts, advertising copy, and even poetry that mimics the style of Shakespeare, Edgar Allen Poe and other famous authors. \n\n  Using only a few snippets of example code text, GPT-3 can create workable code that can be run without error, as programming code is just a form of text. GPT-3 has also been used to powerful effect to mock up websites. Using just a bit of suggested text, one developer has combined the UI prototyping tool Figma with GPT-3 to create websites just by describing them in a sentence or two. GPT-3 has even been used to clone websites by providing a URL as suggested text. Developers are using GPT-3 in several ways, from generating code snippets, regular expressions, plots and charts from text descriptions, Excel functions and other development applications. \n\n  GPT-3 is also being used in the gaming world to create realistic chat dialog, quizzes, images and other graphics based on text suggestions. GPT-3 can generate memes, recipes and comic strips, as well.",
-        "isNative": false,
-		"background": "#000000"
-      },
-      {
-        "title": "Is ChatGPT free?",
-        "image": "https://i.postimg.cc/zXSBmPnt/img6.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "  OpenAI does make some of its models and other resources available for free to researchers and developers who are interested in using them for research or development purposes. \n\n For example, OpenAI has released several versions of GPT, including GPT-2 and GPT-3, under an open-source license, which allows researchers and developers to use and modify the models for non-commercial purposes. However, the models are not free to use for commercial purposes, and OpenAI charges fees for the commercial use of its models and other resources. \n\n  Additionally, OpenAI has released a number of tools and libraries that make it easier for researchers and developers to use its models, including tools for training and fine-tuning language models, as well as tools for deploying models in production environments. Most of these tools and libraries are free, but some may have limits on how they can be used or require users to sign up for an API key. \n\n  Overall, while GPT itself is not free to use, there are a number of resources and tools available from OpenAI that can make it easier for researchers and developers to use the model for research and development purposes.",
-        "isNative": false,
-		"background": "#000000"
-      }
-    ]
-
-  }
-}
+		  
+        "BannerAd": "max",
+        "InterstitialAd": "max",
+        "NativeAd": "max",
+	      
+	"FirstBanner": "max",
+        "MainBanner": "max",
+	      
+	"InterBtn1": "max",
+        "InterBtn2": "max",
+        "InterBtn3": "max",
+        "InterBtn4": "max",
+        "InterBtn5": "max",
+        "InterBtn6": "max",
+	      
+	"FirstNative": "max",
+        "MainNative": "max",
+		
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	      
+	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+		
+		"MaxBanner" : "31eb8c84153b5dda",
+		"MaxInter" : "a74f76060116d011",
+		"MaxNative" : "2e9ad01bf5a80e28",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
+        "LinkCpa" : "https://cpabuild.com/"
+		
+	
+      }	  
+	      }	  
+	  }
