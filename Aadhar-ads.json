@@ -6,12 +6,6 @@
         "BannerAd": "facebook",
         "InterstitialAd": "admob",
         "NativeAd": "admob",
-	      
-	"InterImage": "",
-        "InterVideo": "admob",
-        "InterAudio": "facebook",
-        "InterDocs": "",
-        "InterOther": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
