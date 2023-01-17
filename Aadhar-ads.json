@@ -4,13 +4,13 @@
       {
 		  
         "BannerAd": "max",
-        "InterstitialAd": "admob",
+        "InterstitialAd": "facebook",
         "NativeAd": "max",
 	      
 	              "MainBanner": "admob",
 
-	              "SplashInter": "admob",
-                      "MainInter": "max",
+	              "SplashInter": "splash",
+                      "MainInter": "admob",
 
 	              "MainNative": "admob",
 
