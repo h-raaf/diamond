@@ -9,10 +9,15 @@
 	      
 	              "MainBanner": "admob",
 
-	              "SplashInter": "facebook",
+	              "SplashInter": "max",
                       "MainInter": "facebook",
-	      	      "ContinueInter": "facebook",
-
+	      	      "ContinueInter": "admob",
+	      	      "GetStartedInter": "facebook",
+	      	      "HomeActivity1": "max",
+	      	      "HomeActivity2": "unity",
+	      	      "HomeActivity3": "admob",
+	      	      "SetNameInter": "facebook",
+	      	      "StartInter": "admob",
 	     
 	              "MainNative": "admob",
 
