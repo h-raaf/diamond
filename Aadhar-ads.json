@@ -10,12 +10,12 @@
 	"FirstBanner": "admob",
         "MainBanner": "admob",
 	      
-	"InterBtn1": "admob",
-        "InterBtn2": "admob",
-        "InterBtn3": "admob",
-        "InterBtn4": "admob",
-        "InterBtn5": "admob",
-        "InterBtn6": "admob",
+	"InterBtn1": "",
+        "InterBtn2": "",
+        "InterBtn3": "",
+        "InterBtn4": "",
+        "InterBtn5": "",
+        "InterBtn6": "",
 	      
 	"FirstNative": "admob",
         "MainNative": "admob",
