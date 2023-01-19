@@ -3,36 +3,34 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "admob",
         "InterstitialAd": "admob",
-        "NativeAd": "facebook",
+        "NativeAd": "admob",
 	      
-	              "MainBanner": "admob",
-
-	              "SplashInter": "max",
-                      "MainInter": "facebook",
-	      	      "ContinueInter": "admob",
-	      	      "GetStartedInter": "facebook",
-	      	      "HomeActivity1": "max",
-	      	      "HomeActivity2": "facebook",
-	      	      "HomeActivity3": "admob",
-	      	      "SetNameInter": "facebook",
-	      	      "StartInter": "admob",
-	     
-	              "MainNative": "admob",
-
+	"FirstBanner": "admob",
+        "MainBanner": "admob",
+	      
+	"InterBtn1": "admob",
+        "InterBtn2": "admob",
+        "InterBtn3": "admob",
+        "InterBtn4": "admob",
+        "InterBtn5": "admob",
+        "InterBtn6": "admob",
+	      
+	"FirstNative": "admob",
+        "MainNative": "admob",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 	      
-	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
-        "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
-        "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
+	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
 		
-		"MaxBanner" : "YOUR_AD_UNIT_ID",
-		"MaxInter" : "YOUR_AD_UNIT_ID",
-		"MaxNative" : "YOUR_AD_UNIT_ID",
+		"MaxBanner" : "31eb8c84153b5dda",
+		"MaxInter" : "a74f76060116d011",
+		"MaxNative" : "2e9ad01bf5a80e28",
 		
 		"ironsource_appKey": "1011dee21",
 		
@@ -45,7 +43,6 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://cpabuild.com/"
 		
-	
       }	  
 	      }	  
 	  }
