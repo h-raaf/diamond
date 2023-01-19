@@ -4,21 +4,21 @@
       {
 		  
         "BannerAd": "admob",
-        "InterstitialAd": "facebook",
-        "NativeAd": "facebook",
+        "InterstitialAd": "admob",
+        "NativeAd": "admob",
 	      
-	"FirstBanner": "facebook",
-        "MainBanner": "max",
+	"FirstBanner": "admob",
+        "MainBanner": "admob",
 	      
 	"InterBtn1": "admob",
-        "InterBtn2": "facebook",
+        "InterBtn2": "admob",
         "InterBtn3": "admob",
-        "InterBtn4": "facebook",
+        "InterBtn4": "admob",
         "InterBtn5": "admob",
-        "InterBtn6": "facebook",
+        "InterBtn6": "admob",
 	      
 	"FirstNative": "admob",
-        "MainNative": "max",
+        "MainNative": "admob",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
