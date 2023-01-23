@@ -6,19 +6,6 @@
         "BannerAd": "admob",
         "InterstitialAd": "admob",
         "NativeAd": "admob",
-	      
-	"FirstBanner": "admob",
-        "MainBanner": "admob",
-	      
-	"InterBtn1": "",
-        "InterBtn2": "",
-        "InterBtn3": "",
-        "InterBtn4": "",
-        "InterBtn5": "",
-        "InterBtn6": "",
-	      
-	"FirstNative": "admob",
-        "MainNative": "admob",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
