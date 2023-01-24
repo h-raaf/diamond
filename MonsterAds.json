@@ -1,32 +1,35 @@
 {
-    "Ads": {
-        "show_ads": false,
-	    
-        "bannerAd": "facebook",
-        "InterAd": "admob",
-        "NativeAd": "max",
-	    
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/1044960115",
-	    
-        "facebook_banner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
-        "facebook_native": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
-	    
-        "max_banner": "e093e9336176ff96",
-        "max_inter": "16b5b0deee94ab48",
-        "max_native": "9a3f722be9a060cb",
-	    
-		"ironsource_api": "1011dee21",
-	    
-		"unityTest": true,	
-        "unityGameID": "1734877",
-        "unityBanner": "banner",
-        "unityInter": "Android_Interstitial",
-	    
-        "intersitial_click_activites": 1,
-		"intersitial_click_list": 3
-
-    }
-}
+	  "GuideData": {
+    "AdsController": 
+      {
+		  
+        "BannerAd": "admob",
+        "InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	      
+	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
+        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
+        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
+		
+		"MaxBanner" : "31eb8c84153b5dda",
+		"MaxInter" : "a74f76060116d011",
+		"MaxNative" : "2e9ad01bf5a80e28",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": false,
+        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
+        "LinkCpa" : "https://cpabuild.com/"
+		
+      }	  
+	      }	  
+	  }
