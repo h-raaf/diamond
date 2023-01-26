@@ -8,27 +8,27 @@
         "NativeAd": "admob",
 	      
 	      
-	"FirstBanner": "admob",
-        "MainBanner": "admob",
+	"FirstBanner": "max",
+        "MainBanner": "facebook",
 	      
 	"InterBtn1": "admob",
         "InterBtn2": "facebook",
         "InterBtn3": "unity",
         "InterBtn4": "ironsource",
-        "InterBtn5": "admob",
+        "InterBtn5": "max",
         "InterBtn6": "admob",
-        "InterBtn7": "admob",
-        "InterBtn8": "admob",
-        "InterBtn9": "admob",
-        "InterBtn10": "admob",
+        "InterBtn7": "facebook",
+        "InterBtn8": "unity",
+        "InterBtn9": "ironsource",
+        "InterBtn10": "max",
         "InterBtn11": "admob",
-        "InterBtn12": "admob",
-        "InterBtn13": "admob",
-        "InterBtn14": "admob",
-        "InterBtn15": "admob",
+        "InterBtn12": "facebook",
+        "InterBtn13": "unity",
+        "InterBtn14": "ironsource",
+        "InterBtn15": "max",
 
-	"FirstNative": "admob",
-        "MainNative": "admob",
+	"FirstNative": "facebook",
+        "MainNative": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -51,7 +51,7 @@
 		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/"
+        "LinkCpa" : "https://www.google.com/"
 		
       }	  
 	      }	  
