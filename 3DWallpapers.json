@@ -2,9 +2,9 @@
     "Ads": {
         "show_ads": true,
         
-        "bannerAd": "admob",
+        "bannerAd": "max",
         "InterAd": "max",
-        "NativeAd": "admob",
+        "NativeAd": "max",
         
         "admob_banner": "ca-app-pub-1693640054285861/2559411277",
         "admob_inter": "ca-app-pub-1693640054285861/8741676244",
