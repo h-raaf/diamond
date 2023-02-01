@@ -6,7 +6,7 @@
     "ad_banner" : "fan",
     "ad_inter" : "fan",
     "ad_native" : "fan",
-    "openapp" : "admob",
+    "openapp" : "applovin_max",
     "back_up" : "none",
     "ad_interval" : 3 ,
     
