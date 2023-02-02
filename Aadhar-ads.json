@@ -3,25 +3,10 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "max",
         "InterstitialAd": "admob",
         "NativeAd": "max",
-	      
-	              "MainBanner": "max",
 
-	              "SplashInter": "admob",
-                      "MainInter": "facebook",
-	      	      "ContinueInter": "admob",
-	      	      "GetStartedInter": "facebook",
-	      	      "HomeActivity1": "admob",
-	      	      "HomeActivity2": "facebook",
-	      	      "HomeActivity3": "admob",
-	      	      "SetNameInter": "facebook",
-	      	      "StartInter": "admob",
-	      
-	             "MainNative": "max",
-
-		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
