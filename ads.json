@@ -7,7 +7,9 @@
         "InterstitialAd": "facebook",
         "NativeAd": "facebook",
 	      
-	      
+	 "Update": "yes",
+	 "No_Update": "",
+
 	"FirstBanner": "max",
         "MainBanner": "facebook",
 	      
