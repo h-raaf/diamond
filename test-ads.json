@@ -1,6 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
+	"Gifs": "yes",
 	    
         "bannerAd": "max",
         "InterAd": "admob",
