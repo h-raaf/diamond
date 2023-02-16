@@ -1,6 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
+	"Gift": "yes",
 	    
         "bannerAd": "admob",
         "InterAd": "admob",
