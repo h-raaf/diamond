@@ -1,115 +1,31 @@
 {
-	"GuideData": {
-		"AdsController": {
-
-			"BannerAd": "admob",
-			"InterstitialAd": "facebook",
-			"NativeAd": "facebook",
-
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-			"MaxBanner": "YOUR_AD_UNIT_ID",
-			"MaxInter": "YOUR_AD_UNIT_ID",
-			"MaxNative": "YOUR_AD_UNIT_ID",
-
-			"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-			"FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-			"FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-			"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
-
-			"ironsource_appKey": "1011dee21",
-
-			"unity_game_id": "3883855",
-			"unity_test": true,
-			"unity_banner": "banner",
-			"unity_interstitial": "video",
-
-			"Cpa": false,
-			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
-			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
-		},
-
-		"items": [
-			 {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
-        "text_size": "25",
-        "isLink": true,
-		"link_title": "Get Coins",
-		"setLink": "https://www.google.com",
-        "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
-		"background": "#00FF00"
-      },
+	  "GuideData": {
+    "AdsController": 
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      },
-      {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#00FF00"
-      }
-		]
-	}
-}
+		  
+        "CheckAds": "admob",
+        
+	      "CheckFBAdMobNative": false,
+	      "CheckFBAdMobInterstitial": false,
+	      "QurekaInterstitialAd": false,
+
+                      "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+                      "AdMob_Int": "ca-app-pub-3940256099942544/1033173712",
+                      "AdMob_Reward": "ca-app-pub-3940256099942544/5224354917",
+	              "AdMob_NativeAdvance": "ca-app-pub-3940256099942544/2247696110",
+	              "AdMob_AppOpenAds": "ca-app-pub-3940256099942544/3419835294",
+
+	      "FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+              "FB_Int": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+              "FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		
+	    	"MAX_Banner" : "YOUR_AD_UNIT_ID",
+	     	"MAX_Int" :  "YOUR_AD_UNIT_ID",
+	     	"MAX_Native" : "YOUR_AD_UNIT_ID",
+		
+        "interClick" : "1",
+        "ckickAds" : "0"
+		
+      }	  
+	      }	  
+	  }
