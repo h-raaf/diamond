@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-        "CheckAds": "fb", 
+        "CheckAds": "max", 
 	//   fb  || admob  || max
         
                       "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
