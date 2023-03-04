@@ -19,7 +19,7 @@
 	     	"MAX_Int" :  "YOUR_AD_UNIT_ID",
 	     	"MAX_Native" : "YOUR_AD_UNIT_ID",
 		
-        "interClick" : "3",
+        "interClick" : "1",
         "ckickAds" : "0"
 		
       }	  
