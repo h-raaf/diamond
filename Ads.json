@@ -3,7 +3,7 @@
     "AdsController": 
       {
 		  
-        "CheckAds": "max", 
+        "CheckAds": "fb, 
 	//   fb  || admob  || max
         
                       "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
@@ -20,7 +20,7 @@
 	     	"MAX_Int" :  "YOUR_AD_UNIT_ID",
 	     	"MAX_Native" : "YOUR_AD_UNIT_ID",
 		
-        "interClick" : "1",
+        "interClick" : "3",
         "ckickAds" : "0"
 		
       }	  
