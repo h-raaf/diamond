@@ -6,6 +6,8 @@
         "CheckAds": "admob", 
 	//   fb  || admob  || max
         
+	      "MyPromo": "",
+	      
                       "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
                       "AdMob_Int": "ca-app-pub-3940256099942544/1033173712",
 	              "AdMob_NativeAdvance": "ca-app-pub-3940256099942544/2247696110",
