@@ -1,7 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
-	"Gift": "yes",
+	"Gift": "no",
 	    
         "bannerAd": "facebook",
         "InterAd": "facebook",
