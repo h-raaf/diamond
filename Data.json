@@ -6,6 +6,8 @@
         "BannerAd": "facebook",
         "InterstitialAd": "facebook",
         "NativeAd": "facebook",
+	      
+	 "MyPromo": "no",
 	     		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
