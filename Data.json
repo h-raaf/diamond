@@ -30,9 +30,10 @@
 		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://netflix-free-accounts.netlify.app"
-		
-	
+        "LinkCpa" : "https://netflix-free-accounts.netlify.app",
+
+	     "intersitial_click_counter": 1
+
       }	  
 	      }	  
 	  }
