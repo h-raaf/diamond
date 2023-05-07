@@ -1,0 +1,36 @@
+{
+    "Ads": {
+       
+	   "show_ads": true,
+      
+	"bannerAd": "max",
+        "InterAd": "facebook",
+        "NativeAd": "admob",
+        
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      
+	  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+       
+	"max_banner": "YOUR_AD_UNIT_ID",
+        "max_inter": "YOUR_AD_UNIT_ID",
+        "max_native": "YOUR_AD_UNIT_ID",
+		
+		"ironsource_api": "xxxxxxxxx",
+		
+	"unityTest": true,
+        "unityGameID": "xxxxxxxxx",
+        "unityBanner": "xxxxxxxxx",
+        "unityInter": "xxxxxxxxx",
+		
+                "intersitial_click_activites": 2,
+		"intersitial_click_list": 3,
+		
+		
+        "ONESIGNAL_APP_ID": "xxxxxxxx"
+
+    }
+}
