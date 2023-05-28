@@ -1,29 +1,92 @@
 {
-	  "GuideData": {
-    "AdsController": 
-      {
-		  
-        "BannerAd": "facebook",
-        "InterstitialAd": "admob",
-        "NativeAd": "max",
-
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	      
-	      "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-		
-	    	"MaxBanner" : "d10dc18bd36ede3e",
-	     	"MaxInter" :  "d4f276bf6844e332",
-	     	"MaxNative" : "338d644d0d0a767e",
-		
-        "Cpa": false,
-        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://google.com/"
-		
 	
-      }	  
-	      }	  
-	  }
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
+ 
+  "applovin_banner_id": "YOUR_AD_UNIT_ID",
+  "applovin_interstitial_id": "YOUR_AD_UNIT_ID",
+  "applovin_native_id": "YOUR_AD_UNIT_ID",
+  "applovin_rewarded_id": "YOUR_AD_UNIT_ID",
+  "max": true,
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  
+
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Native": "applovin",
+  "Rewarded": "facebook",
+  
+  
+  "clicks_to_show_inter": 1,
+  "native_rate": 2,
+  
+  "rating_exit_popup": true,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+
+
+  "guides": [
+	{
+	 "image": "https://i.insider.com/61d786c637afc20019ac999b?width=700",
+	 "title": "What is Anime?",
+	 "text": "Anime refers to a specific style of cartoon produced or inspired by Japanese animation. Think of it this way: all anime shows are cartoons, but not all cartoons are anime. The art style associated with anime is very unique and recognizable.",
+	 "text_two": "You’re probably familiar with the large eyes, wild hair, long arms and limbs, and more. This exaggerated design helps the characters more easily express emotions — of which there are plenty in anime.",
+
+	 "isLocked": false,
+	 "id": 1
+
+	},
+	{
+	 "image": "https://us.knews.media/wp-content/uploads/2022/09/best-anime-shows-for-newbies-feature.jpg",
+	 "title": "Anime’s Popularity in America",
+	 "text": "Anime has been popular in Japan for more than a century, and its TV shows and movies are now exported all over the world. America has been enjoying anime as far back as the ‘60s with Speed Racer, a kid favorite at the time. In the ‘90s, the loveable Studio Ghibli had a string of mainstream movie hits. Spirited Away even won an Oscar for best foreign-language film at the 2001 Academy Awards. ",
+	 "text_two": "Not long after that, a whole generation of kids grew up watching Pokemon and DragonBall Z, two kids’ shows that aired on TV all across the country. Today, kids can find anime instantly on Hulu, Netflix, Amazon Prime, and more, showing that interest in the genre shows no signs of waning.",
+
+	 "isLocked": true,
+	 "id": 2
+	 
+	},
+	{
+	 "image": "https://i.pinimg.com/736x/1b/6c/a2/1b6ca211129aba166856ffa8e4fe37f8.jpg",
+	 "title": "It's not for kids all the time",
+	 "text": "In America, animated shows are usually marketed toward and made for kids. Exceptions exist, of course, but generally speaking, adults gravitate more toward live-action entertainment.",
+	 "text_two": "In Japan, though, animated shows are made for people of all ages, and it’s commonplace for people in their 40s, 50s, and beyond to have favorite anime characters and shows. But even though the content is animated, anime can have very adult themes, ranging from serious drama all the way to pornography.",
+
+	 "isLocked": false,
+	 "id": 3
+
+	},
+	{
+	 "image": "https://www.lifewire.com/thmb/Zb37raJp97cg8raWY6ni_jAIPlw=/1080x1080/smart/filters:no_upscale()/anime-pokemon-5a191e1789eacc00372449e8-512c78337fbe42b2b6cd6280bb7a23f6.jpg",
+	 "title": "The Dangers of Anime",
+	 "text": "This brings us to some of the dangers facing kids as they explore the world of anime. Because so many anime TV shows and movies are made for adults, the chances a kid could be exposed to very inappropriate content are high. This includes things like violence, crude language, nudity, drug use, and sexual content — basically anything they could see in a live-action R-rated movie.",
+	 "text_two": "As anime has become more mainstream, though, a quick Google search can reveal whether a certain TV show or movie is for kids or adults, which can help you set limits on what’s allowed. Fortunately, there’s absolutely no shortage of anime that is completely acceptable for kids to watch. Bark can also help you keep your kids safe from inappropriate content by blocking categories of content and specific websites.",
+
+	 "isLocked": true,
+	 "id": 4
+
+	}
+  ]  
+}
