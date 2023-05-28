@@ -49,12 +49,12 @@
 
   "guides": [
 	{
-	 "image": "https://i.insider.com/61d786c637afc20019ac999b?width=700",
-	 "title": "What is Anime?",
-	 "text": "Anime refers to a specific style of cartoon produced or inspired by Japanese animation. Think of it this way: all anime shows are cartoons, but not all cartoons are anime. The art style associated with anime is very unique and recognizable.",
-	 "text_two": "You’re probably familiar with the large eyes, wild hair, long arms and limbs, and more. This exaggerated design helps the characters more easily express emotions — of which there are plenty in anime.",
+	 "image": "https://assets.pikiran-rakyat.com/crop/3x0:655x492/x/photo/2023/04/11/3097377855.png",
+	 "title": "Demon Slayer: Swordsmith Village Arc",
+         "text": "Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in.",
+	 "text_two": "The Mist Hashira, Muichiro Tokito, engages the demons, but he'll need some help from Tanjiro and Genya, another Demon Slayer. It's bad enough that they have to fight two upper-rank demons, but can they handle a foe who can split itself into four separate bodies and regenerate almost instantly?",
 
-	 "isLocked": false,
+	 "isLocked": true,
 	 "id": 1
 
 	},
@@ -64,7 +64,7 @@
 	 "text": "Anime has been popular in Japan for more than a century, and its TV shows and movies are now exported all over the world. America has been enjoying anime as far back as the ‘60s with Speed Racer, a kid favorite at the time. In the ‘90s, the loveable Studio Ghibli had a string of mainstream movie hits. Spirited Away even won an Oscar for best foreign-language film at the 2001 Academy Awards. ",
 	 "text_two": "Not long after that, a whole generation of kids grew up watching Pokemon and DragonBall Z, two kids’ shows that aired on TV all across the country. Today, kids can find anime instantly on Hulu, Netflix, Amazon Prime, and more, showing that interest in the genre shows no signs of waning.",
 
-	 "isLocked": true,
+	 "isLocked": false,
 	 "id": 2
 	 
 	},
